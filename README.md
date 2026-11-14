@@ -63,6 +63,6 @@ The dataset is licensed under CC BY-NC 4.0. Please refer to the original dataset
 
 **Developed as part of an Applied AI Bootcamp project.**
 # Team members:
-Afnan Alharbi
-Taif Alharbi 
-Nawaf Alshaye
+- Afnan Alharbi
+- Taif Alharbi 
+- Nawaf Alshaye
